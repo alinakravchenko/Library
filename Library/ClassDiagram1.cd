@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Library.AddBooks">
+    <Position X="2" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAARAHSAQAFBAiAqBAAECAAAIIAAIAEAAAAABAQA=</HashCode>
+      <FileName>AddBooks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.Authorization">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAABAAAAAAAAAAAAAAAgAAAAAAABAAAAAA=</HashCode>
+      <FileName>Authorization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.AuthorizationRequest">
+    <Position X="4.75" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAAAASAAAIAAAGEEAAAAAAAAA=</HashCode>
+      <FileName>AuthorizationRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.Book">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABQAAgEBAiAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.BookManager">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABEgIAAAAAAAAACACCgKEACgAQAAEACAGBEJAAABAA=</HashCode>
+      <FileName>BookManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.BookManagerTemplate">
+    <Position X="6.25" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>BookManagerTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.FilterByAuthor">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAgACAAAESAgAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>FilterByAuthor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.FilterByPrice">
+    <Position X="8.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AADABoQIACAAABCQACCCIAECAAAIBAAAAGQggAAABQQ=</HashCode>
+      <FileName>FilterByPrice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.FilterByPublisher">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAABAACACAAAESAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>FilterByPublisher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.FilterByQuality">
+    <Position X="14.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAhAhBQAAKAAAECAAAIAAAAAEAAAAAgAAA=</HashCode>
+      <FileName>FilterByQuality.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.FilterByTitle">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAIFAAAACAAAESAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>FilterByTitle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.FilterByYear">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADABoAAACAAABGQACqCYAECAAAIBAAAAGQAAAAABQQ=</HashCode>
+      <FileName>FilterByYear.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.Generator">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACEAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Generator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.InputValidator">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAgAoAkAAAAGAAAAAQAQIAECAAKAgAAiAgAAAgAA=</HashCode>
+      <FileName>InputValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.Main">
+    <Position X="16.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IQDIgAgoBygAqMBCiCjgyw1CKgxgQQmCAwAJgCASQDQ=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.Password">
+    <Position X="13.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAABBAACCEQBECAgEBAgAQAABAAAAAAAA=</HashCode>
+      <FileName>Password.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.Program">
+    <Position X="4.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.Reference">
+    <Position X="8.5" Y="8" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAEAAACAAAACAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Reference.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.UpdateBooksQualityByAge">
+    <Position X="2" Y="8.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABChBQAEKAAAECAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>UpdateBooksQualityByAge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
